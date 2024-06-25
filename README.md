@@ -1,6 +1,6 @@
 # Let´s rock the future  🎸⋆⭒˚.⋆ 🤟
 
-### Link para o site: [![alt text](assets/img/favicon.ico)](https://fiap-one.vercel.app/)
+### Link para o site: [![alt text](assets/img/favicon.ico)](https://front-fiap-kappa.vercel.app/)
 
 O projeto é uma landing page dedicada à FIAP, desenvolvida utilizando HTML, CSS e JavaScript. Inspirado em um layout do Figma fornecido pela empresa, o desenvolvimento seguiu as especificações originais e incluiu features adicionais.
 
